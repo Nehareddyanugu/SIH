@@ -7,3 +7,5 @@ __pycache__/
 
 # Rasa logs
 logs/
+venv/
+components/lid.176.bin
